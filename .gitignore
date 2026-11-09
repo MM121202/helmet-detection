@@ -1,0 +1,5 @@
+# 数据集太大，不进仓库（下载方式见 README）
+data/
+runs/
+__pycache__/
+*.pt
